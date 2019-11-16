@@ -1,0 +1,15 @@
+.gradle/
+.idea/
+/build/
+*.iml
+local.properties
+gradlew.bat
+gradlew
+
+
+# Built application files
+*.apk
+*.ap_
+*.aab
+
+
